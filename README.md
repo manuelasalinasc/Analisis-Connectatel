@@ -42,10 +42,3 @@ El análisis integra tres fuentes de datos principales:
 * **Diseño de Plan Intermedio (*Mid-Tier*):** Crear una oferta que capture a los clientes de "Uso Medio" del plan Básico antes de escalar al plan Premium.
 * **Estrategia de Upselling:** Migrar proactivamente a los clientes de "Alto Uso" que superan su cuota en el plan Básico hacia el plan Premium.
 * **Empaquetamiento Modular:** Ofrecer aditivos (*add-ons*) específicos de voz o mensajes para usuarios con patrones intensivos en un solo canal.
-
----
-
-## 🚀 Cómo Ejecutar el Proyecto
-1. Clona este repositorio en tu equipo local:
-   ```bash
-   git clone [https://github.com/manuelasalinasc/Analisis-Connectatel.git](https://github.com/manuelasalinasc/Analisis-Connectatel.git)
